@@ -1,5 +1,7 @@
 ### Population
 
+#### Origin till 2020 
+
 Data: [SEER organization](https://seer.cancer.gov/popdata/download.html)
 Available Files:
   County level files, Single-year Age Group
@@ -175,4 +177,22 @@ Available Files:
     <td>numeric</td>
   </tr>
   </table>   
+  
+  #### Row examples of data.
+  
+  ``1990AL01003992017500000026``<br>
+  ``1990AL01003992017600000026``<br>
+  ``1990AL01003992017700000020``<br> 
+  ``1990AL01003992017800000015``<br>
+  
+  * Year: 1990
+  * State: AL (Alabama)
+  * County: 01003 Alabama, Baldwin County.
+  * 99: Data that comes from external organization.
+  * 20: Black, non Hispanic
+  * 1:  Male
+  * (75 years : 26 Inhabitants, 76 years: 26 Inhabitans, 77 years: 20 Inhabitants, 78: 15 Inhabitants)
+  
+	
+  
  
