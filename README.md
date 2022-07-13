@@ -12,7 +12,7 @@ List of data/indicators:
 * Land Temperature
 * Air quality 
 * Traffic Trends
-* Life expectancy
+* [Life expectancy](life_expectation)
 * Heath insurance
 * Causes of death
 * Energy
