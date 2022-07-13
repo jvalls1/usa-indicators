@@ -160,5 +160,30 @@ IHME_USA_LE_COUNTY_RACE_ETHN_2000_2019_LT_2000_MALE_Y2022M06D16
   </body>
 </table>
 
+#### Example of Data.
+
+
+measure_id,measure_name,location_id,location_name,fips,race_id,race_name,sex_id,sex_name,age_group_id,age_name,year,metric_id,metric_name,val,upper,lower<br><br>
+26,Life expectancy,102,United States of America,,1,Total,1,Male,28,<1 year,2000,1,Number,74.1076076431798,74.1433043794098,74.0724211002904<br><br>
+26,Life expectancy,102,United States of America,,2,Latino,1,Male,28,<1 year,2000,1,Number,76.6530723903737,76.9621118508913,76.3690552241845<br><br>
+26,Life expectancy,102,United States of America,,4,Black,1,Male,28,<1 year,2000,1,Number,67.9188212704537,68.0557479581951,67.7964749834534<br><br>
+26,Life expectancy,102,United States of America,,5,White,1,Male,28,<1 year,2000,1,Number,74.6907480351783,74.7429581392115,74.6417075045727<br><br>
+26,Life expectancy,102,United States of America,,6,AIAN,1,Male,28,<1 year,2000,1,Number,70.3385698373321,72.0485027019328,68.7262461104907<br><br>
+26,Life expectancy,102,United States of America,,7,API,1,Male,28,<1 year,2000,1,Number,80.206080498676,80.7672123977158,79.5638567183248<br><br>
+26,Life expectancy,102,United States of America,,2,Latino,1,Male,5,1 to 4,2000,1,Number,76.1077202127294,76.4021420835275,75.8323679218532<br><br>
+26,Life expectancy,102,United States of America,,4,Black,1,Male,5,1 to 4,2000,1,Number,67.9828740685329,68.0976196078829,67.8768627176185<br><br>
+  
+
+#### Aprox Number of Records.
+  
+For example:<br>
+wc -l IHME_USA_LE_COUNTY_RACE_ETHN_2000_2019_LT_2000_MALE_Y2022M06D16.CSV<br>
+365941 ~ 365000 rows.
+There are 15 files into each ZIP => 24,500,000 per zip<br>
+We have 4 zips => 100,000,000 rows.<br>
+  
+  
+  
+
 
 
