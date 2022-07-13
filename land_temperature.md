@@ -28,12 +28,11 @@ We are onlygoing to use by State and by City files.
     <th>type</th>
   </theader> 
   <tbody>
-    <tr><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td></tr>
-    <tr><td></td><td></td><td></td></tr>
+    <tr><td>dt</td><td>date</td><td>date in format dd/MM/YYYY</td></tr>
+    <tr><td>#AverageTemperature</td><td>Avarage temperature for this day and terrritory</td><td>Decimal</td></tr>
+    <tr><td>#AverageTemperatureUncertainty</td><td>Max Error to fit in 95%</td><td>Decimal</td></tr>
+    <tr><td>State</td><td>State</td><td>String</td></tr>
+    <tr><td>Country</td><td>Country</td><td>String</td></tr>
   </tbody>
 </table>
 
