@@ -10,7 +10,7 @@ List of data/indicators:
 * [Population](population.md)
 * School level
 * [Land Temperature](land_temperature.md)
-* Air quality 
+* [Air quality](air_quality.md) 
 * Traffic Trends
 * [Life expectancy](life_expectation)
 * Heath insurance
