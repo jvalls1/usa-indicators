@@ -27,6 +27,7 @@ Fields of row format (CSV Files)
 ***Year:*** Year of data <br>
 ***Month:*** Month <br>
 ***State-Code:*** US 2 digit state Code <br>
+***Type-of-Road:*** Type of Road (It takes three possible values, URBAN, INTERURBAN AND ALL) <br>
 ***Vehicle-Miles-Pre:*** Vehicles Miles in millions, preliminary data <br>
 ***Vehicle-Miles-Pre-A-YearAgo:*** Vehicles Miles in millions, preliminary data, last yeart, same month <br> 
 ***Percentatge-Change:*** Percentantge change respect to same month of previous year  
@@ -34,6 +35,7 @@ Fields of row format (CSV Files)
 ***Vehicle-Miles-Rev-A-YearAgo:*** Vehicles Miles in millions, revised data of previois month of previous year. <br>
 ***Percentatge-Change-Rev:*** Percentatge change on revised data. 
 
-
+#### Number of Rows
+245 Files x 50 States x 3 Types of roads = 36750 Rows.
 
 
