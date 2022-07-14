@@ -17,7 +17,7 @@ Expected Update Frequency => Not specified
 * Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
 
 #### Fields:
-We are onlygoing to use by State and by City files. 
+We are only going to use by State and by City files. 
 
 * Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
 
@@ -55,7 +55,8 @@ Samples:
 
 
 <br>
-* Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
+
+* Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)<br>
 
 <table>
   <theader>
