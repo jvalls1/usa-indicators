@@ -13,7 +13,7 @@ List of data/indicators:
 * [Air quality](air_quality.md) 
 * [Traffic Trends](traffic_trends.md)
 * [Life expectancy](life_expectation)
-* Heath insurance
+* [Heath insurance](health_insurance)
 * Causes of death
 * Energy
   * Production
