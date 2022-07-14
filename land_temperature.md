@@ -42,7 +42,16 @@ Records that contains info about United States States: 149,484  <br>
 
 Samples:
 
-
+``GlobalLandTemperaturesByState.csv:1743-11-01,10.722000000000001,2.898,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1743-12-01,,,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-01-01,,,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-02-01,,,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-03-01,,,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-04-01,19.075,2.902,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-05-01,21.197,2.844,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-06-01,25.29,2.879,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-07-01,26.42,2.841,Alabama,United States``<br>
+``GlobalLandTemperaturesByState.csv:1744-08-01,,,Alabama,United States``<br>
 
 
 <br>
@@ -68,6 +77,16 @@ Samples:
 
 Samples:
 
+``1820-01-01,2.1010000000000004,3.217,Abilene,United States,32.95N,100.53W``<br>
+``1820-02-01,6.926,2.853,Abilene,United States,32.95N,100.53W``<br>
+``1820-03-01,10.767,2.395,Abilene,United States,32.95N,100.53W``<br>
+``1820-04-01,17.988999999999994,2.202,Abilene,United States,32.95N,100.53W``<br>
+``1820-05-01,21.809,2.036,Abilene,United States,32.95N,100.53W``<br>
+``1820-06-01,25.682,2.008,Abilene,United States,32.95N,100.53W``<br>
+``1820-07-01,26.268,1.8019999999999998,Abilene,United States,32.95N,100.53W``<br>
+``1820-08-01,25.048,1.895,Abilene,United States,32.95N,100.53W``<br>
+``1820-09-01,22.435,2.2159999999999997,Abilene,United States,32.95N,100.53W``<br>
+``1820-10-01,15.83,2.169,Abilene,United States,32.95N,100.53W``<br>
 
 
 
