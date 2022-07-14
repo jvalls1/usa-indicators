@@ -7,6 +7,212 @@ https://aqs.epa.gov/aqsweb/airdata/download_files.html
 
 As the Website explains: <br>
 
+## Fields
+
+Links to data description for the files.<br>
+
+[Daily Summary Files](https://aqs.epa.gov/aqsweb/airdata/FileFormats.html#_daily_summary_files)
+* [Content](https://aqs.epa.gov/aqsweb/airdata/FileFormats.html#_content_4)
+* [Format](https://aqs.epa.gov/aqsweb/airdata/FileFormats.html#_format_4)
+
+A copy of the web content its exposed here in case of update.
+
+<h3 id="_content_4">Content</h3>
+<div class="paragraph"><p>Each daily summary file contains data for every monitor (sampled parameter) in our database for each day.  These files are separated by parameter (or parameter group) to make the sizes more manageable.</p></div>
+<div class="paragraph"><p>This file will contain a daily summary record that is:</p></div>
+<div class="paragraph"><p>1) The aggregate of all sub-daily measurements taken at the monitor.</p></div>
+<div class="paragraph"><p>2) The single sample value if the monitor takes a single, daily sample (e.g., there is only one sample with a 24-hour duration).  In this case, the mean and max daily sample will have the same value.</p></div>
+<div class="paragraph"><p>The daily summary files contain (at least) one record for each monitor that reported data for the given day.  There may be multiple records for the monitor if:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+There are calculated sample durations for the pollutant.  For example, PM2.5 is sometimes reported as 1-hour samples and EPA calculates 24-hour averages.
+</p>
+</li>
+<li>
+<p>
+There are multiple standards for the pollutant (q.v. pollutant standards).
+</p>
+</li>
+<li>
+<p>
+There were exceptional events associated with some measurements that the monitoring agency has or may request be excluded from comparison to the standard.
+</p>
+</li>
+</ul></div>
+</div>
+
+<div class="sect2">
+<h3 id="_format_4">Format</h3>
+<div class="paragraph"><p>The file is comma separated variables (CSV) with a header row.</p></div>
+
+<div class="tableblock">
+<table rules="all"
+width="100%"
+frame="border"
+cellspacing="0" cellpadding="4">
+<col width="7%" />
+<col width="21%" />
+<col width="71%" />
+<thead>
+<tr>
+<th align="left" valign="top">Field Position </th>
+<th align="left" valign="top">Field Name </th>
+<th align="left" valign="top">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top"><p class="table">1</p></td>
+<td align="left" valign="top"><p class="table">State Code</p></td>
+<td align="left" valign="top"><p class="table">The FIPS code of the state in which the monitor resides.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">2</p></td>
+<td align="left" valign="top"><p class="table">County Code</p></td>
+<td align="left" valign="top"><p class="table">The FIPS code of the county in which the monitor resides.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">3</p></td>
+<td align="left" valign="top"><p class="table">Site Num</p></td>
+<td align="left" valign="top"><p class="table">A unique number within the county identifying the site.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">4</p></td>
+<td align="left" valign="top"><p class="table">Parameter Code</p></td>
+<td align="left" valign="top"><p class="table">The AQS code corresponding to the parameter measured by the monitor.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">5</p></td>
+<td align="left" valign="top"><p class="table">POC</p></td>
+<td align="left" valign="top"><p class="table">This is the “Parameter Occurrence Code” used to distinguish different instruments that measure the same parameter at the same site.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">6</p></td>
+<td align="left" valign="top"><p class="table">Latitude</p></td>
+<td align="left" valign="top"><p class="table">The monitoring site&#8217;s angular distance north of the equator measured in decimal degrees.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">7</p></td>
+<td align="left" valign="top"><p class="table">Longitude</p></td>
+<td align="left" valign="top"><p class="table">The monitoring site&#8217;s angular distance east of the prime meridian measured in decimal degrees.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">8</p></td>
+<td align="left" valign="top"><p class="table">Datum</p></td>
+<td align="left" valign="top"><p class="table">The Datum associated with the Latitude and Longitude measures.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">9</p></td>
+<td align="left" valign="top"><p class="table">Parameter Name</p></td>
+<td align="left" valign="top"><p class="table">The name or description assigned in AQS to the parameter measured by the monitor. Parameters may be pollutants or non-pollutants.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">10</p></td>
+<td align="left" valign="top"><p class="table">Sample Duration</p></td>
+<td align="left" valign="top"><p class="table">The length of time that air passes through the monitoring device before it is analyzed (measured). So, it represents an averaging period in the atmosphere (for example, a 24-hour sample duration draws ambient air over a collection filter for 24 straight hours). For continuous monitors, it can represent an averaging time of many samples (for example, a 1-hour value may be the average of four one-minute samples collected during each quarter of the hour).</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">11</p></td>
+<td align="left" valign="top"><p class="table">Pollutant Standard</p></td>
+<td align="left" valign="top"><p class="table">A description of the ambient air quality standard rules used to aggregate statistics.  (See description at beginning of document.)</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">12</p></td>
+<td align="left" valign="top"><p class="table">Date Local</p></td>
+<td align="left" valign="top"><p class="table">The calendar date for the summary.  All daily summaries are for the local standard day (midnight to midnight) at the monitor.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">13</p></td>
+<td align="left" valign="top"><p class="table">Units of Measure</p></td>
+<td align="left" valign="top"><p class="table">The unit of measure for the parameter. QAD always returns data in the standard units for the parameter. Submitters are allowed to report data in any unit and EPA converts to a standard unit so that we may use the data in calculations.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">14</p></td>
+<td align="left" valign="top"><p class="table">Event Type</p></td>
+<td align="left" valign="top"><p class="table">Indicates whether data measured during exceptional events are included in the summary. A wildfire is an example of an exceptional event; it is something that affects air quality, but the local agency has no control over. No Events means no events occurred. Events Included means events occurred and the data from them is included in the summary. Events Excluded means that events occurred but data form them is excluded from the summary.  Concurred Events Excluded means that events occurred but only EPA concurred exclusions are removed from the summary.  If an event occurred for the parameter in question, the data will have multiple records for each monitor.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">15</p></td>
+<td align="left" valign="top"><p class="table">Observation Count</p></td>
+<td align="left" valign="top"><p class="table">The number of observations (samples) taken during the day.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">16</p></td>
+<td align="left" valign="top"><p class="table">Observation Percent</p></td>
+<td align="left" valign="top"><p class="table">The percent representing the number of observations taken with respect to the number scheduled to be taken during the day. This is only calculated for monitors where measurements are required (e.g., only certain parameters).</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">17</p></td>
+<td align="left" valign="top"><p class="table">Arithmetic Mean</p></td>
+<td align="left" valign="top"><p class="table">The average (arithmetic mean) value for the day.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">18</p></td>
+<td align="left" valign="top"><p class="table">1st Max Value</p></td>
+<td align="left" valign="top"><p class="table">The highest value for the day.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">19</p></td>
+<td align="left" valign="top"><p class="table">1st Max Hour</p></td>
+<td align="left" valign="top"><p class="table">The hour (on a 24-hour clock) when the highest value for the day (the previous field) was taken.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">20</p></td>
+<td align="left" valign="top"><p class="table">AQI</p></td>
+<td align="left" valign="top"><p class="table">The Air Quality Index for the day for the pollutant, if applicable.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">21</p></td>
+<td align="left" valign="top"><p class="table">Method Code</p></td>
+<td align="left" valign="top"><p class="table">An internal system code indicating the method (processes, equipment, and protocols) used in gathering and measuring the sample.  The method name is in the next column.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">22</p></td>
+<td align="left" valign="top"><p class="table">Method Name</p></td>
+<td align="left" valign="top"><p class="table">A short description of the processes, equipment, and protocols used in gathering and measuring the sample.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">23</p></td>
+<td align="left" valign="top"><p class="table">Local Site Name</p></td>
+<td align="left" valign="top"><p class="table">The name of the site (if any) given by the State, local, or tribal air pollution control agency that operates it.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">24</p></td>
+<td align="left" valign="top"><p class="table">Address</p></td>
+<td align="left" valign="top"><p class="table">The approximate street address of the monitoring site.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">25</p></td>
+<td align="left" valign="top"><p class="table">State Name</p></td>
+<td align="left" valign="top"><p class="table">The name of the state where the monitoring site is located.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">26</p></td>
+<td align="left" valign="top"><p class="table">County Name</p></td>
+<td align="left" valign="top"><p class="table">The name of the county where the monitoring site is located.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">27</p></td>
+<td align="left" valign="top"><p class="table">City Name</p></td>
+<td align="left" valign="top"><p class="table">The name of the city where the monitoring site is located.  This represents the legal incorporated boundaries of cities and not urban areas.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">28</p></td>
+<td align="left" valign="top"><p class="table">CBSA Name</p></td>
+<td align="left" valign="top"><p class="table">The name of the core bases statistical area (metropolitan area) where the monitoring site is located.</p></td>
+</tr>
+<tr>
+<td align="left" valign="top"><p class="table">29</p></td>
+<td align="left" valign="top"><p class="table">Date of Last Change</p></td>
+<td align="left" valign="top"><p class="table">The date the last time any numeric values in this record were updated in the AQS data system.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
+## Files
 <H3>Criteria Gases</H3>
 		<TABLE class="tablebord zebra">
 			<TR>
