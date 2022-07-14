@@ -14,7 +14,7 @@ List of data/indicators:
 * [Traffic Trends](traffic_trends.md)
 * [Life expectancy](life_expectation.md)
 * [Heath insurance](health_insurance.md)
-* Causes of death
+* [Causes of death](causes_of_death.md)
 * Energy
   * Production
   * Prices
