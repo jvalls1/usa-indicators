@@ -11,7 +11,7 @@ List of data/indicators:
 * School level
 * [Land Temperature](land_temperature.md)
 * [Air quality](air_quality.md) 
-* Traffic Trends
+* [Traffic Trends](traffic_trends.md)
 * [Life expectancy](life_expectation)
 * Heath insurance
 * Causes of death
