@@ -25,7 +25,7 @@ List of data/indicators:
   * Zillow prices. 
   * Fair rental prices.
 * Personal Economy
-  * Per Capita Personal Income
+  * [Per Capita Personal Income](per_capita_personal_income.md)
   * Unemployment
   * Wages ???
 * Indicators
