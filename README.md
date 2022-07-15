@@ -26,7 +26,7 @@ List of data/indicators:
   * Fair rental prices.
 * Personal Economy
   * [Per Capita Personal Income](per_capita_personal_income.md)
-  * Unemployment
+  * [Unemployment](unemployment.md)
   * Wages ???
 * Indicators
   * CPI (Cosumer Prices Index)
