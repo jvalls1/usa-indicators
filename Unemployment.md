@@ -51,6 +51,10 @@ TABLES <br>
 
 File Name laucntyXX.txt => Where XX is Year.
 
+### Aprox number of rows
+
+
+
 ### Fields
 
 ***LAUS Code***:  <br>
