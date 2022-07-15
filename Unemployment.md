@@ -60,7 +60,7 @@ File Name laucntyXX.txt => Where XX is Year.
 ***Labor Force***: Number of people that are able to work<br>
 ***Employed***: Number of people employed<br>
 ***Unemployed***: Number of people unemployed<br>
-***Umemployed Rate(%)***: Rate of unemployed<br>
+***Umemployed Rate(%)***: Rate of unemployment<br>
 
 
 
