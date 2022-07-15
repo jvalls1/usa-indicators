@@ -51,6 +51,16 @@ TABLES <br>
 
 File Name laucntyXX.txt => Where XX is Year.
 
+### Fields
+
+***LAUS Code***:  <br>
+***State FIPS Code***: Dos digits representing the state<br>
+***County FIPS Code***: Three digits representing the county<br>
+***Period***: String representing Year-Month, exemple format Aug-21<br>
+***Labor Force***: Number of people that are able to work<br>
+***Employed***: Number of people employed<br>
+***Unemployed***: Number of people unemployed<br>
+***Umemployed Rate(%)***: Rate of unemployment<br>
 
 
 
