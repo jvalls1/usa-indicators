@@ -22,7 +22,7 @@ List of data/indicators:
   * OED
   * Hardvard
 * Housing 
-  * Zillow prices. 
+  * [Buying prices](buying_prices.md) 
   * Fair rental prices.
 * Personal Economy
   * [Per Capita Personal Income](per_capita_personal_income.md)
