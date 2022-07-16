@@ -18,7 +18,7 @@ From their enterprise pages:
 
 ### Files
 
-* ZHVI All Homes-Bottom Tier Time Series ($) by County. Filename: 
+* ZHVI All Homes-Bottom Tier Time Series ($) by County. Filename: County_zhvi_uc_sfrcondo_tier_0.0_0.33_sm_sa_month.csv
 * ZHVI Single-Family Homes Time Series ($) by County. Filename: County_zhvi_uc_sfr_tier_0.33_0.67_sm_sa_month.csv
 * ZHVI Condo-Cop Time Series ($) by County. Filename: County_zhvi_uc_condo_tier_0.33_0.67_sm_sa_month.csv
 * ZHVI 1-Bedroom Time Series ($) by County. Filename: County_zhvi_bdrmcnt_1_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
@@ -26,4 +26,31 @@ From their enterprise pages:
 * ZHVI 3-Bedroom Time Series ($) by County. Filename: County_zhvi_bdrmcnt_3_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
 * ZHVI 4-Bedroom Time Series ($) by County. Filename: County_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
 * ZHVI 5-Bedroom Time Series ($) by County. Filename: County_zhvi_bdrmcnt_5_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+
+### Rows
+Each *.csv has at most 2,800 Rows corresponding to a County. <br>
+Each county (row), has 264 month data. <br>
+Total of data facts: ~ 6,000,000 Facts. <br>  
+
+### Fields (Row Format).
+1 Header.
+N Rows.
+
+Common fields for all files.
+
+***RegionID***,<br>
+***SizeRank***,<br>
+***RegionName***,<br>
+***RegionType***,<br>
+***StateName***,<br>
+***State***,<br>
+***Metro***,<br>
+***StateCodeFIPS***,<br>
+***MunicipalCodeFIPS***,<br>
+***2000-01-31***, price in dolars<br>
+***2000-02-29***, price in dolars<br>
+....<br>
+***2022-05-31***, price in dolars<br>
+
+
 
