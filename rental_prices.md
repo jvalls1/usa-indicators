@@ -30,6 +30,25 @@ There is an unique file to download.<br>
   Facts per Row: 2018-01 to 2022-06. 54 price months per row.<br>
   Total: 49572 Facts. <br>
   
+### Fields
+
+* ***Zip_ZORI_AllHomesPlusMultifamily_Smoothed.csv***<br>
+
+
+
+
+* ***Metro_invt_fs_uc_sfrcondo_sm_month.csv***<br>
+
+  * ***RegionId***: 6 digits, Region Code, .<br> 
+  * ***SizeRank***: Numerical, autoincremental.<br>
+  * ***RegionName***: String, description or name of region.<br> 
+  * ***RegionType***: String, type of region.
+  * ***Price_for_2018_01***: Numerical, price of rental in dolars
+  * ***Price_for_2018_02***: Numerical, price of rental in dolars
+  * ...
+  * ***Price_for_2022_06***: Numerical, price of rental in dolars
+
+  
  
  
 
