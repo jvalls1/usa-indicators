@@ -23,7 +23,7 @@ List of data/indicators:
   * Hardvard
 * Housing 
   * [Buying prices](buying_prices.md) 
-  * Fair rental prices.
+  * [Fair rental prices](fair_rental.md)
 * Personal Economy
   * [Per Capita Personal Income](per_capita_personal_income.md)
   * [Unemployment](unemployment.md)
