@@ -36,7 +36,13 @@ List of data/indicators:
 
 <table>
    <theader>
-      <th><td>Indicator/File</td><td>Size</td><td>Rows</td><td>USA</td><td>State</td><td>Council</td><td>MA</td><td>Year</td><td>Month</td><td>Day</td><td>Begin Date</td><td>End Date</td><td>Bulk donwload</td><td>API</td></th>
+      <th><td>Indicator/File</td>
+          <td>* Size,Rows,Facts <br>
+              * USA,State,County,MA <br>
+              * Year,Month,Day,Begin Date,End Date <br>
+              * Bulk donwload,API
+          </td>
+      </th>
    </theader>
 </table>
 
