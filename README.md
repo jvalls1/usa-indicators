@@ -32,3 +32,11 @@ List of data/indicators:
   * CPI (Cosumer Prices Index)
   * Average Prices. 
 
+# resume of datasets.
+
+<table>
+   <theader>
+      <th><td>Indicator/File</td><td>Size</td><td>Rows</td><td>USA</td><td>State</td><td>Council</td><td>MA</td><td>Year</td><td>Month</td><td>Day</td><td>Begin Date</td><td>End Date</td><td>Bulk donwload</td><td>API</td></th>
+   </theader>
+</table>
+
