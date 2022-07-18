@@ -34,6 +34,11 @@ List of data/indicators:
 
 # resume of datasets.
 
+|Indicator/File|Num.Files|Size|Rows|Facts|
+|--------------|---------|----|----|-----|
+|a|34|34MB|23333|233333|
+
+
 <table>
    <theader>
       <th><td>Indicator/File</td>
@@ -46,3 +51,7 @@ List of data/indicators:
    </theader>
 </table>
 
+
+## Maps
+https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
+https://www.python-graph-gallery.com/choropleth-map-geopandas-python
