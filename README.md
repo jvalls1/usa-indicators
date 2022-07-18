@@ -29,8 +29,8 @@ List of data/indicators:
   * [Unemployment](unemployment.md)
   * Wages ???
 * Indicators
-  * CPI (Cosumer Prices Index)
-  * Average Prices. 
+  * [CPI (Cosumer Prices Index)](cpi.md)
+  * [Average Prices](average_prices.md) 
 
 # resume of datasets.
 
