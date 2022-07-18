@@ -34,22 +34,20 @@ List of data/indicators:
 
 # resume of datasets.
 
+### Size
 |Indicator/File|Num.Files|Size|Rows|Facts|
 |--------------|---------|----|----|-----|
 |a|34|34MB|23333|233333|
 
+### Geography
+|Indicator/File|Workd|USA|Region|State|MA|County|
+|--------------|-----|---|------|-----|--|------|
+|a|x|x|x|x|x|
 
-<table>
-   <theader>
-      <th><td>Indicator/File</td>
-          <td>* Size,Rows,Facts <br>
-              * USA,State,County,MA <br>
-              * Year,Month,Day,Begin Date,End Date <br>
-              * Bulk donwload,API
-          </td>
-      </th>
-   </theader>
-</table>
+### Frequency
+|Indicator/File|Annual|Mountly|Daily|Quarter of year|
+|--------------|------|-------|-----|---------------|
+|a|34|34MB|23333|233333|
 
 
 ## Maps
