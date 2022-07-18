@@ -40,9 +40,9 @@ List of data/indicators:
 |a|34|34MB|23333|233333|
 
 ### Geography
-|Indicator/File|Workd|USA|Region|State|MA|County|
-|--------------|-----|---|------|-----|--|------|
-|a|x|x|x|x|x|
+|Indicator/File|Workd|USA|Region|State|MA|County|City|Town
+|--------------|-----|---|------|-----|--|------|----|----|
+|a|x|x|x|x|x|x|
 
 ### Frequency
 |Indicator/File|Annual|Mountly|Daily|Quarter of year|
