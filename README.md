@@ -8,7 +8,7 @@ List of data/indicators:
 
 * Inmigration data
 * [Population](population.md)
-* School level
+* [School level](school_level.md)
 * [Land Temperature](land_temperature.md)
 * [Air quality](air_quality.md) 
 * [Traffic Trends](traffic_trends.md)
