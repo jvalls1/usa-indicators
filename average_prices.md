@@ -28,6 +28,7 @@ Files of average prices are under ap directory: <br>
 ![Average_Files](average_prices.svg)
 
 External dimensions: <br>
+ * SEASONAL
  * ITEM
  * AREA
  * PERIOD
@@ -38,6 +39,7 @@ Main dimension: <br>
 
 Facts: <br>
  * rest of tables.
+
 
 
 
