@@ -67,6 +67,10 @@ Facts: <br>
 
 ### Serie Id Code 
 
+CUUR0400AA0. It can be broken into 
+CU - Survey Code. 
+U  - 
+R  - 
 
 
 ### Number of Rows
