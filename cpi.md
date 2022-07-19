@@ -5,7 +5,7 @@
 The data is obtained from:<br>
 [Bureau of Labor Statistics](https://www.bls.gov/cpi/tables/home.htm)
 
-The bureau of labor statistics offers historical data of large set of inicators:<br>
+The bureau of labor statistics offers historical data of large sets:<br>
 [LABSTATS](https://download.bls.gov/pub/time.series/)
 
 ### Files
