@@ -68,9 +68,11 @@ Facts: <br>
 ### Serie Id Code 
 
 CUUR0400AA0. It can be broken into 
-CU - Survey Code. 
-U  - 
-R  - 
+* CU - Survey Code. 
+* U  - Season Code (Unajusted)
+* R  - Periodicity (R = Montly)
+* 0400 - Area Code
+* AA0  - Item Code
 
 
 ### Number of Rows
