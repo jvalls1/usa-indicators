@@ -16,8 +16,8 @@ List of data/indicators:
 * [Heath insurance](health_insurance.md)
 * [Causes of death](causes_of_death.md)
 * Energy
-  * Production
-  * Prices
+  * [Production](production.md)
+  * [Prices](energy_prices.md)
 * Economic Complexity
   * OED
   * Hardvard
