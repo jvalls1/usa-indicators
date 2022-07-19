@@ -51,6 +51,7 @@ Available files.
 
 Although It is well defined and explained in cu.txt file. The following diagram shows us a visual representation: <br>
 
+![modelo de datos](modelo_datos.svg)
 
 
 
