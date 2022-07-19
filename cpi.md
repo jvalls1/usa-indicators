@@ -14,7 +14,7 @@ On owerview file, <br>
 [Overview](https://download.bls.gov/pub/time.series/overview.txt), let's us select series. 
 
 * CU - Consumer Price Index-All Urban Consumers (Current Series)
-* MU - Consumer Price Index-All Urban Consumers (Old Series)
+* MU - Consumer Price Index-All Urban Consumers (Old Series) It will be no treated. 
 
 Available files.
 * cu.data.0.Current			       -  All current year-to-date 
@@ -64,6 +64,10 @@ Main dimension: <br>
 
 Facts: <br>
 * rest of tables.
+
+### Serie Id Code 
+
+
 
 ### Number of Rows
 
