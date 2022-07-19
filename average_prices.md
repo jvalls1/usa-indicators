@@ -25,4 +25,4 @@ Files of average prices are under ap directory: <br>
 
 ### Relationships of files
 
-![Average_Files](average_prices.svg]
+![Average_Files](average_prices.svg)
