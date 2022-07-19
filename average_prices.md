@@ -6,7 +6,7 @@ https://www.bls.gov/cpi/tables/home.htm <br>
 
 The bureau of labor statistics offers historical data of large sets: <br>
 [LABSTATS](https://download.bls.gov/pub/time.series/)<br>
-https://download.bls.gov/pub/time.series/<br>
+https://download.bls.gov/pub/time.series/ap<br>
 
 ### Files
 Files of average prices are under ap directory: <br>
