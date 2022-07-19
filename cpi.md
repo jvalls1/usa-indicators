@@ -53,7 +53,11 @@ Although It is well defined and explained in cu.txt file. The following diagram 
 
 ![modelo de datos](modelo_datos.svg)
 
-External dimensions:
+External dimensions: <br>
+* AREA
+* ITEMS
+* PERIOD
+* PERIODICITY
 * 
 
 
