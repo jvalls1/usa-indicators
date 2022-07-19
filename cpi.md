@@ -67,6 +67,38 @@ Facts: <br>
 
 ### Number of Rows
 
+| Files | Number of Rows | Fact Table | Dimension Table |
+|-------|----------------|------------|-----------------|
+| cu.data.0.Current | 960933 | Yes | No | 
+| cu.data.1.AllItems | 59800 | No  | Yes |
+| cu.data.2.Summaries | 257630 | Yes | No |
+| cu.data.3.AsizeNothEast | 16487 | Yes | No |
+| cu.data.4.AsizeNorthCentral | 60094 | Yes | No |
+| cu.data.5.AsizeSouth | 11258 | Yes | No |
+| cu.data.6.AsizeWest | 45180 | Yes | No |
+| cu.data.7.OtherNorthEast| 200967 | Yes | No |
+| cu.data.8.OtherNorthCentral | 231518 | Yes | No |
+| cu.data.9.OtherSouth | 269760 | Yes | No |
+| cu.data.10.OtherWest | 249966 | Yes | No |
+| cu.data.11.USFoodBeverage | 142089 | Yes | No |
+| cu.data.12.USHousing | 57234 | Yes | No | 
+| cu.data.13.USApparel | 30512 | Yes | No | 
+| cu.data.14.USTransportation | 48071 | Yes | No |
+| cu.data.15.USMedical | 21453 | Yes | No |
+| cu.data.16.USRecreation | 29636 | Yes | No |
+| cu.data.17.USEducationAndComunication | 18266 | Yes | No |
+| cu.data.18.USOtherGoodsAndServices | 15998 | Yes | No |
+| cu.data.19.PopulationSize | 35413 | Yes | No |
+| cu.data.20.USCommoditiesServicesSpecial | 79329 | Yes | No |
+| cu.item | 401 | No | Yes |
+| cu.series | 8096 | No | Yes |
+| cu.period | 16 | No | Yes |
+| cu.periodicity | 2 | No | Yes |
+| cu.seasonal | 2 | No | Yes |
+
+
+
+
 
 
 
