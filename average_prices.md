@@ -8,7 +8,7 @@ The bureau of labor statistics offers historical data of large sets: <br>
 [LABSTATS](https://download.bls.gov/pub/time.series/)<br>
 https://download.bls.gov/pub/time.series/<br>
 
-## Files
+### Files
 Files of average prices are under ap directory: <br>
 
 * ap.data.0.Current		- All current year-to-date data
@@ -23,3 +23,6 @@ Files of average prices are under ap directory: <br>
 * ap.series			- All series and their beginning and end Dates
 * ap.txt				- General information
 
+### Relationships of files
+
+![Average_Files](average_prices.svg]
