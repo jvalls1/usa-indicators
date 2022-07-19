@@ -26,3 +26,18 @@ Files of average prices are under ap directory: <br>
 ### Relationships of files
 
 ![Average_Files](average_prices.svg)
+
+External dimensions: <br>
+ * ITEM
+ * AREA
+ * PERIOD
+ * PERIODICITY <br>
+ 
+Main dimension: <br>
+ * SERIE
+
+Facts: <br>
+ * rest of tables.
+
+
+
