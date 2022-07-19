@@ -44,11 +44,11 @@ Facts: <br>
 
 | Files | Number of Rows | Fact Table | Dimension Table |
 |-------|----------------|------------|-----------------|
-| ap.data.0.Current | 960933 | Yes | No | 
-| ap.data.1.HouseholdFuels | 59800 | Yes  | No |
-| ap.data.2.Gasoline | 257630 | Yes | No |
-| ap.data.3.Food | 16487 | Yes | No |
-| ap.area	 | 60094 | No | Yes |
-| ap.item | 11258 | No | Yes |
-| ap.period	 | 45180 | No | Yes |
-| ap.series| 200967 | No | Yes |
+| ap.data.0.Current | 189048 | Yes | No | 
+| ap.data.1.HouseholdFuels | 103139 | Yes  | No |
+| ap.data.2.Gasoline | 88754 | Yes | No |
+| ap.data.3.Food | 139987 | Yes | No |
+| ap.area	 | 75 | No | Yes |
+| ap.item | 165 | No | Yes |
+| ap.period	 | 14 | No | Yes |
+| ap.series| 1485 | No | Yes |
