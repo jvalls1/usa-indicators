@@ -40,6 +40,15 @@ Main dimension: <br>
 Facts: <br>
  * rest of tables.
 
+### Number of Rows
 
-
-
+| Files | Number of Rows | Fact Table | Dimension Table |
+|-------|----------------|------------|-----------------|
+| ap.data.0.Current | 960933 | Yes | No | 
+| ap.data.1.HouseholdFuels | 59800 | Yes  | No |
+| ap.data.2.Gasoline | 257630 | Yes | No |
+| ap.data.3.Food | 16487 | Yes | No |
+| ap.area	 | 60094 | No | Yes |
+| ap.item | 11258 | No | Yes |
+| ap.period	 | 45180 | No | Yes |
+| ap.series| 200967 | No | Yes |
