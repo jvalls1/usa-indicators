@@ -6,7 +6,7 @@ of quality of live evolution in USA.
 
 List of data/indicators:
 
-* [Inmigration data](inmigration_data.md)
+* [Inmigration data](immigration_data.md)
 * [Population](population.md)
 * [School level](school_level.md)
 * [Land Temperature](land_temperature.md)
@@ -27,7 +27,6 @@ List of data/indicators:
 * Personal Economy
   * [Per Capita Personal Income](per_capita_personal_income.md)
   * [Unemployment](unemployment.md)
-  * Wages ???
 * Indicators
   * [CPI (Cosumer Prices Index)](cpi.md)
   * [Average Prices](average_prices.md) 
