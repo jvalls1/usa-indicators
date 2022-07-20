@@ -71,6 +71,6 @@ Each option has data available from 1995 to 2019
  | Grosss Export | Value in Dolars | Number |
  | Share | Per cent of Exportations | Decimal |
  
- ***Aprox of total Rowss***: 70.000 Rows
+ ***Aprox of total Rows***: 70.000 Rows
  
  
