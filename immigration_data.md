@@ -42,33 +42,15 @@ File format is parquet:
 ***ENTDEPA***: Arrival Flag - admitted or paroled into the U.S. <br>
 ***ENTDEPD***: Departure Flag - Departed, lost I-94 or is deceased <br>
 ***ENTDEPU***: Update Flag - Either apprehended, overstayed, adjusted to perm residence <br>
+***MATFLAG***: Match flag - Match of arrival and departure records <br>
+***BIRYEAR***: 4 digit year of birth <br>
+***DTADDTO***: Character Date Field - Date to which admitted to U.S. (allowed to stay until)<br>
+***GENDER***: Non-immigrant sex<br>
+***INSNUM***: INS number<br>
+***AIRLINE***: Airline used to arrive in U.S.<br>
+***ADMNUM***: Admission Number <br>
+***FLTNO***: Flight number of Airline used to arrive in U.S.<br>
+***VISATYPE***: Class of admission legally admitting the non-immigrant to temporarily stay in U.S.<br> 
 
-
-/* MATFLAG - Match flag - Match of arrival and departure records */
-
-
-/* BIRYEAR - 4 digit year of birth */
-
-
-/* DTADDTO - Character Date Field - Date to which admitted to U.S. (allowed to stay until) - CIC does not use */
-
-
-/* GENDER - Non-immigrant sex */
-
-
-/* INSNUM - INS number */
-
-
-/* AIRLINE - Airline used to arrive in U.S. */
-
-
-/* ADMNUM - Admission Number */
-
-
-/* FLTNO - Flight number of Airline used to arrive in U.S. */
-
-
-/* VISATYPE - Class of admission legally admitting the non-immigrant to temporarily stay in U.S. */
-run ;
 
 
