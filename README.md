@@ -6,7 +6,7 @@ of quality of live evolution in USA.
 
 List of data/indicators:
 
-* Inmigration data
+* [Inmigration data](inmigration_data.md)
 * [Population](population.md)
 * [School level](school_level.md)
 * [Land Temperature](land_temperature.md)
