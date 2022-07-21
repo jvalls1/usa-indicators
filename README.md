@@ -33,6 +33,12 @@ List of data/indicators:
 
 # resume of datasets.
 
+* Population by County, Single Ages, Races: White, Black, Other. 1960-2020. <br> 
+  * us.1969_2020.singleages.adjusted.exe.gz, 238.8 MB, 6510147 Rows <br>
+* Population by County, Single Ages, Extended Races. 1990-2020 <br>    
+  * us.1990_2020.singleages.adjusted.exe.gz, 246.3 MB, 65160149 Rows <br>
+
+  
 ### Size
 |Indicator/File|Num.Files|Size|Rows|Facts|
 |--------------|---------|----|----|-----|
