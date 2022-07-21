@@ -34,7 +34,7 @@ List of data/indicators:
 # resume of datasets.
 
 * Immigration Data, State, City or Town, Year. 1 Parquet File. Aprox 3,000,000 Rows
-  * part-00013-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00013-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy, 
   * part-00012-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
   * part-00011-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
   * part-00010-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
@@ -53,20 +53,6 @@ List of data/indicators:
   * us.1990_2020.singleages.adjusted.exe.gz, 246.3 MB, 65160149 Rows <br>
 
   
-### Size
-|Indicator/File|Num.Files|Size|Rows|Facts|
-|--------------|---------|----|----|-----|
-|a|34|34MB|23333|233333|
-
-### Geography
-|Indicator/File|Workd|USA|Region|State|MA|County|City|Town
-|--------------|-----|---|------|-----|--|------|----|----|
-|a|x|x|x|x|x|x|
-
-### Frequency
-|Indicator/File|Annual|Mountly|Daily|Quarter of year|
-|--------------|------|-------|-----|---------------|
-|a|34|34MB|23333|233333|
 
 
 ## Maps
