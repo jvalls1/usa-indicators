@@ -33,6 +33,20 @@ List of data/indicators:
 
 # resume of datasets.
 
+* Immigration Data, State, City or Town, Year. 1 Parquet File. Aprox 3,000,000 Rows
+  * part-00013-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00012-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00011-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00010-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00009-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00008-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00007-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00006-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00005-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00004-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00003-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00002-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
+  * part-00001-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy
 * Population by County, Single Ages, Races: White, Black, Other. 1960-2020. <br> 
   * us.1969_2020.singleages.adjusted.exe.gz, 238.8 MB, 6510147 Rows <br>
 * Population by County, Single Ages, Extended Races. 1990-2020 <br>    
