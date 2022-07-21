@@ -1,8 +1,11 @@
 ### Population
 
-#### Origin till 2020 
+#### Origin of data 
 
 Data: [SEER organization](https://seer.cancer.gov/popdata/download.html)
+
+### Files
+
 Available Files:
   County level files, Single-year Age Group
   
@@ -17,7 +20,7 @@ Available Files:
   Update frequency and policy:
   Annually and each year all data are corrected.
   
-  #### File Format 
+### File Format 
   
     * Fixed length ASCII text records (26 Bytes)
     * One Population per record/line 
