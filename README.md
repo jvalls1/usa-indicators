@@ -154,6 +154,13 @@ List of data/indicators:
      * ap.txt				- General information
 
  ## Directory structure and location.
+ 
+ The structure of directory where data will be loacated is:
+ 
+ /-- Data
+      |
+      -- Immigration_Data
+      -- 
      
      
 ## Maps
