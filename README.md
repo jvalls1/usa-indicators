@@ -156,12 +156,28 @@ List of data/indicators:
  ## Directory structure and location.
  
  The structure of directory where data will be loacated is:
- 
- /-- Data
-      |
-      -- Immigration_Data
-      -- 
-     
+
+ /-- data<br> 
+      &nbsp;&nbsp;| -- immigration_data <br>
+      &nbsp;&nbsp;| -- population <br>
+      &nbsp;&nbsp;| -- school_level <br>
+      &nbsp;&nbsp;| -- land_temperature <br>
+      &nbsp;&nbsp;| -- air_quality <br>
+      &nbsp;&nbsp;| -- traffic_trends <br>
+      &nbsp;&nbsp;| -- life_expectancy <br>
+      &nbsp;&nbsp;| -- health_insurrance <br>
+      &nbsp;&nbsp;| -- causes_of_death <br>
+      &nbsp;&nbsp;| -- energy <br>
+      &nbsp;&nbsp;| -- economic_activity <br>
+      &nbsp;&nbsp;| -- housing <br>
+      &nbsp;&nbsp;| -- personal_economy <br>
+      &nbsp;&nbsp;| -- indicators <br>
+      &nbsp;&nbsp;| -- codes_geocodes <br>
+
+Locations:<br>
+* Due the large number and volume of files a google drive is used.
+* One the project will be moved to cloud, correspondent storage will be used.
+
      
 ## Maps
 https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
