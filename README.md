@@ -91,17 +91,23 @@ List of data/indicators:
     * 'Where did United States of America import from in YYYY,csv', ((1995-2019) 220 Rows per file => 5280 Rows)    
  * Housing
     *  Buying prices
-       * County_zhvi_uc_sfrcondo_tier_0.0_0.33_sm_sa_month.csv
-       * County_zhvi_uc_sfr_tier_0.33_0.67_sm_sa_month.csv
-       * County_zhvi_uc_condo_tier_0.33_0.67_sm_sa_month.csv
-       * County_zhvi_bdrmcnt_1_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
-       * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
-       * County_zhvi_bdrmcnt_3_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
-       * County_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
-       * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_uc_sfrcondo_tier_0.0_0.33_sm_sa_month.csv (csv 4.7 MB)  
+       * County_zhvi_uc_sfr_tier_0.33_0.67_sm_sa_month.csv (csv 4.8 MB)
+       * County_zhvi_uc_condo_tier_0.33_0.67_sm_sa_month.csv  (csv 2.0 MB) 
+       * County_zhvi_bdrmcnt_1_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv (csv 2.8 MB)
+       * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv (csv 4.4 MB)
+       * County_zhvi_bdrmcnt_3_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv (csv 4.8 MB)
+       * County_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv (csv 4.7 MB)
+       * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv (csv 3.7 MB) 
+    * Renting prices
+       * Zip_ZORI_AllHomesPlusMultifamily_Smoothed.csv (csv XX MB, 246738  Facts)
+       * Metro_invt_fs_uc_sfrcondo_sm_month.csv (56 KB, 49572 Facts)
        
-   
-    
+ * Personal Economy
+   * Per Capita Personal Income
+     * XXXX_PCI.csv (csv where XXXX stands for (1969-2020), 9425 Rows per file x 54 Years = 508950 Rows, 0.625MB per file)    
+   * Unemployment
+     * laucntyXX.txt => (txt where XX is year (1990-2021), 3217 Counties per filex x 32 Years = 102944 Rows + 2 Files)    
 
 ## Maps
 https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
