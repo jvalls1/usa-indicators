@@ -52,7 +52,7 @@ TABLES <br>
 File Name laucntyXX.txt => Where XX is Year.
 
 ### Aprox number of rows
-3217 Counties X 22 Years = 70774 Rows
+3217 Counties X 32 Years = 70774 Rows
 
 
 ### Fields
