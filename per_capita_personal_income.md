@@ -34,6 +34,7 @@ Files donloaded:
   * Population (persons) 
   * Personal income (thousands of dollars)
   * Per capita personal income (dollars)<br>
+
 ***Value***: Number (Integer), representing value in Dollars.
 
 We must add a year at the end of each row, to concatenate all files
