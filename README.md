@@ -51,9 +51,33 @@ List of data/indicators:
   * us.1969_2020.singleages.adjusted.exe.gz, 238.8 MB, 6510147 Rows <br>
 * Population by County, Single Ages, Extended Races. 1990-2020 <br>    
   * us.1990_2020.singleages.adjusted.exe.gz, 246.3 MB, 65160149 Rows <br>
-
-  
-
+* Land Temperature
+  * GlobalLandTemperaturesByState.csv <30.49MB,   645676 Records / 149484 Records US>  
+  * GlobalLandTemperaturesByCity.csv  <520.43MB, 8599213 Records / 687289 Records of US Cites>
+* Air quality
+  * Criteria Gases OZONE(44201),SO2(42401),CO(42101),NO2(42602), Daily,Local Level.
+    * daily_44201_XXXX.zip (XXXX (1980-2020), csv, 4MB, 390000 Rows Each File)
+    * daily_44401_XXXX.zip (XXXX (1980-2020), csv, 3MB, 320000 Rows Each File)
+    * daily_42101_XXXX.zip (XXXX (1980-2020), csv, 2MB, 220000 Rows Each File)
+    * daily_42601_XXXX.zip (XXXX (1980-2020), csv, 1.7MB, 130000 Rows Each File)
+  * Particulates FRM/FEM Mass (88101)
+    * daily_88101_XXXX.zip (XXXX (2005-2020), csv, Apox 6MB,      500000 Rows Aprox Each File)
+  * Particulates PM2.5 non FRM/FEM Mass (88502)
+    * daily_88502_XXXX.zip (XXXX (2005-2020), csv, Apox 2MB,      200000 Rows Aprox Each File)
+  * Particulates PM10 Mass (81102)
+    * daily_81102_XXXX.zip (XXXX (2005-2020), csv, Aprox 1.2MB,   150000 Rows Aprox Each File) 
+  * Particulates PMc Mass (86101)
+    * daily_86101_XXXX.zip (XXXX (2005-2020), csv, Aprox 0.5MB,    50000 Rows Aprox Each File)
+  * Particulates PM2.5 Speciation
+    * daily_SPEC_XXXX.zip  (XXXX (2005-2020), csv, Aprox 14MB,   2000000 Rows Aprox Each File)
+  * Particulates PM10 Speciation
+    * daily_PM10SPEC_XXXX.zip (XXXX (2005-2020), csv, Aprox 3MB,  250000 Rows Aprox Each File)
+  * Toxics (HAPS), Precursors (VOCs,NONOxNOy), and Lead
+    * daily_HAPS_XXXX.zip (XXXX (1980-2020), csv, Aprox 3MB,  250000 Rows Aprox Each File)
+    * daily_VOCS_XXXX.zip (XXXX (1980-2020), csv, Aprox 6MB,  500000 Rows Aprox Each File)
+    * daily_NONOxNOy_XXXX.zip (XXXX (1980-2020), csv, Aprox 4MB,  400000 Rows Aprox Each File)
+    * daily_LEAD_XXXX.zip (XXXX (1980-2020), csv, Aprox 0.125MB,  15000 Rows Aprox Each File)
+    
 
 ## Maps
 https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
