@@ -141,6 +141,18 @@ List of data/indicators:
      * cu.txt					            -  General information
 
    * Averages Prices
+     * ap.data.0.Current		- All current year-to-date data
+     *	ap.data.1.HouseholdFuels	- All household fuels data
+     *	ap.data.2.Gasoline		- All gasoline data
+     *	ap.data.3.Food			- All food data
+     * ap.area				- Area codes		mapping file
+     * ap.contacts			- Contacts for ap survey  
+     * ap.footnote			- Footnote codes	mapping file
+     * ap.item				- Item codes		mapping file
+     * ap.period			- Period codes		mapping file
+     * ap.series			- All series and their beginning and end Dates
+     * ap.txt				- General information
+
      
      
 ## Maps
