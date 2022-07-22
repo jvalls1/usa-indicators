@@ -89,6 +89,18 @@ List of data/indicators:
     * 'Where did United States of America export to in YYYY.csv', ((1995-2019) 220 Rows per file => 5280 Rows)
     * 'What did United States of America import in YYYY.csv', ((1995-2019) 1225 Rows per file => 29400 Rows)
     * 'Where did United States of America import from in YYYY,csv', ((1995-2019) 220 Rows per file => 5280 Rows)    
+ * Housing
+    *  Buying prices
+       * County_zhvi_uc_sfrcondo_tier_0.0_0.33_sm_sa_month.csv
+       * County_zhvi_uc_sfr_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_uc_condo_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_bdrmcnt_1_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_bdrmcnt_3_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_bdrmcnt_4_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+       * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
+       
+   
     
 
 ## Maps
