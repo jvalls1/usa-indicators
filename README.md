@@ -153,6 +153,7 @@ List of data/indicators:
      * ap.series			- All series and their beginning and end Dates
      * ap.txt				- General information
 
+ ## Directory structure and location.
      
      
 ## Maps
