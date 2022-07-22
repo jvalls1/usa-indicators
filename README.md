@@ -79,8 +79,9 @@ List of data/indicators:
     * daily_LEAD_XXXX.zip (XXXX (1980-2020), csv, Aprox 0.125MB,  15000 Rows Aprox Each File)
 * Traffic Trends
     * yymmmtvt.xlxs (Where yy (year), mmm (mounth), 245 Files, 0.3MB Excel, 40000 Total Rows Aprox)
-
-
+* Health Insurrance
+    * sahie-XXXX-csv.zip (XXXX (2008-2019)), (csv files, 12 Files, 300000 x 12 = 3600000 Total Rows Aprox)
+    
 
 ## Maps
 https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
