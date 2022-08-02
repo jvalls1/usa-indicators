@@ -172,11 +172,27 @@ List of data/indicators:
       &nbsp;&nbsp;| -- housing <br>
       &nbsp;&nbsp;| -- personal_economy <br>
       &nbsp;&nbsp;| -- indicators <br>
-      &nbsp;&nbsp;| -- codes_geocodes <br>
+      &nbsp;&nbsp;| -- geographies <br>
 
 Locations:<br>
-* Due the large number and volume of files a google drive is used.
-* One the project will be moved to cloud, correspondent storage will be used.
+* Due the large number and volume of files a google drive is used
+
+# Data Quality
+
+This section describes the data quality process.<br> 
+For each section of data a profiling data process is executed and then based on the results <br>
+it is run a cleaning process. As a result of both process a buch of new datasets are generated.<br>
+
+## healt_insurance
+
+*  Health_insurance_profiling.ipynb, is used for profiling and cleaning. The file sahie2019.csv is used.
+*  Health_insurance_profiling.py runs for all set of files sahieXXXX.csv. 
+   For each file these ones are generated: <br>
+   * XXXX_sahie_county.csv
+   * XXXX_sahie_state.csv
+   * health_insurance_dataQ.html (A report to be used in the modeling step)
+
+
 
      
 ## Maps
