@@ -183,7 +183,7 @@ This section describes the data quality process.<br>
 For each section of data a profiling data process is executed and then based on the results <br>
 it is run a cleaning process. As a result of both process a buch of new datasets are generated.<br>
 
-## healt_insurance
+## Health Insurance
 
 *  Health_insurance_profiling.ipynb, is used for profiling and cleaning. The file sahie2019.csv is used.
 *  Health_insurance_profiling.py runs for all set of files sahieXXXX.csv. 
@@ -196,7 +196,15 @@ The following data are missing for each XXXX_sahie_county
 * County: Kalawao County
 * Facts: NIPR,nipr_moe,NUI,nui_moe,NIC,nic_moe,PCTUI,pctui_moe,PCTIC,pctic_moe,PCTELIG,pctelig_moe,PCTLIIC,pctliic_moe
    
+## Personal Economy
 
+### Per Capita Personal Income
+
+* PCPI_profiling.ipynb, is used for profiling and cleaning. 
+* PCPI_profiling.py runs for all set of files. 
+
+
+### Unemployment
      
 ## Maps
 https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
