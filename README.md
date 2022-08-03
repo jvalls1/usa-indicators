@@ -187,12 +187,15 @@ it is run a cleaning process. As a result of both process a buch of new datasets
 
 *  Health_insurance_profiling.ipynb, is used for profiling and cleaning. The file sahie2019.csv is used.
 *  Health_insurance_profiling.py runs for all set of files sahieXXXX.csv. 
-   For each file these ones are generated: <br>
-   * XXXX_sahie_county.csv
-   * XXXX_sahie_state.csv
-   * health_insurance_dataQ.html (A report to be used in the modeling step)
+   A file is generate form each source file:
+   * Source: XXXX_sahie_county.csv > Generated: cl_XXX_sahie_country.csv
+   
+The following data are missing for each XXXX_sahie_county
 
-
+* State: Hawai
+* County: Kalawao County
+* Facts: NIPR,nipr_moe,NUI,nui_moe,NIC,nic_moe,PCTUI,pctui_moe,PCTIC,pctic_moe,PCTELIG,pctelig_moe,PCTLIIC,pctliic_moe
+   
 
      
 ## Maps
