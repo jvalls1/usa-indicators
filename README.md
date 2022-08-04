@@ -203,6 +203,13 @@ The following data are missing for each XXXX_sahie_county
 * PCPI_profiling.ipynb, is used for profiling and cleaning. 
 * PCPI_profiling.py runs for all set of files. 
 
+### Unemployment
+
+* unemployment.ipynb, is used for profiling and cleaning. 
+* unemployment.py runs for all set of files. 
+77 Counties belonging to Puerto Rico has no data<br>
+
+
 # Data Model 
 
 Considerations.
@@ -228,7 +235,6 @@ Note. All dollar estimates are in thousands of current dollars (not adjusted for
 Last updated: November 16, 2021-- new statistics for 2020; revised statistics for 1998-2019. 
 
 
-### Unemployment
      
 ## Maps
 https://medium.com/@jl_ruiz/plot-maps-from-the-us-census-bureau-using-geopandas-and-contextily-in-python-df787647ef77
