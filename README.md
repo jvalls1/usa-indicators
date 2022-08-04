@@ -185,7 +185,7 @@ it is run a cleaning process. As a result of both process a buch of new datasets
 
 ## Causes of death
 
-* causes_of_death.ipynb, is used for profiling and clining.
+* causes_of_death.ipynb, is used for profiling and cleaning.
 * causes_of_death.py, runs for the two files.
 
 Permanent file: 2014-2019. <br>
@@ -239,6 +239,10 @@ The name of columns will be renamed as follows.
 | flag_stroke     | flag_stroke |                                                                                         
 | flag_cov19mcod  | flag_cov19mcod |                                                                                   
 | flag_cov19ucod  | flag_cov19ucod |     
+
+All fields that begins with 'flag_' must have values 0 or 1 <br>
+,, -> 0 <br>
+Other info -> 1 <br>
 
 
 ## Health Insurance
