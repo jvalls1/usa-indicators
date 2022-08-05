@@ -183,6 +183,26 @@ This section describes the data quality process.<br>
 For each section of data a profiling data process is executed and then based on the results <br>
 it is run a cleaning process. As a result of both process a buch of new datasets are generated.<br>
 
+## Traffic Trends
+
+* Traffic_trends.ipnyb, is used for profiling and cleaning. The file 
+* Traffic_trends.py runs for all file sets  
+
+
+## Health Insurance
+
+*  Health_insurance_profiling.ipynb, is used for profiling and cleaning. The file sahie2019.csv is used.
+*  Health_insurance_profiling.py runs for all sets of files sahieXXXX.csv. 
+   A file is generate form each source file:
+   * Source: XXXX_sahie_county.csv > Generated: cl_XXX_sahie_country.csv
+   
+The following data are missing for each XXXX_sahie_county
+
+* State: Hawai
+* County: Kalawao County
+* Facts: NIPR,nipr_moe,NUI,nui_moe,NIC,nic_moe,PCTUI,pctui_moe,PCTIC,pctic_moe,PCTELIG,pctelig_moe,PCTLIIC,pctliic_moe
+
+
 ## Causes of death
 
 * causes_of_death.ipynb, is used for profiling and cleaning.
@@ -244,19 +264,6 @@ All fields that begins with 'flag_' must have values 0 or 1 <br>
 ,, -> 0 <br>
 Other info -> 1 <br>
 
-
-## Health Insurance
-
-*  Health_insurance_profiling.ipynb, is used for profiling and cleaning. The file sahie2019.csv is used.
-*  Health_insurance_profiling.py runs for all set of files sahieXXXX.csv. 
-   A file is generate form each source file:
-   * Source: XXXX_sahie_county.csv > Generated: cl_XXX_sahie_country.csv
-   
-The following data are missing for each XXXX_sahie_county
-
-* State: Hawai
-* County: Kalawao County
-* Facts: NIPR,nipr_moe,NUI,nui_moe,NIC,nic_moe,PCTUI,pctui_moe,PCTIC,pctic_moe,PCTELIG,pctelig_moe,PCTLIIC,pctliic_moe
    
 ## Personal Economy
 
