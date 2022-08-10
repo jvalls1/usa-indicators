@@ -185,7 +185,7 @@ it is run a cleaning process. As a result of both process a buch of new datasets
 
 ## Air Quality
 
-* There are 14 files for each substance to measure. 
+* There are 14 files for each one corresponding to a substance. 
 * The structure of these files are the same. 
 * A field with two letters identifying the state are missing. For example '01' -> 'AL'. It can be generate easily in the 
   next stage of the pipeline. No change to original data was made. 
