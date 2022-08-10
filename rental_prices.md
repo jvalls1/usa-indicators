@@ -14,7 +14,7 @@ From their web page:
 
 ### Files
 
-There is an unique file to download.<br> 
+There are two files to download.<br> 
 * ZORI (Smoothed) All homes plus multifamily Time Series ($). ZIP Codes. ***Zip_ZORI_AllHomesPlusMultifamily_Smoothed.csv***
 * ZORI (Smoothed) All homes plus multifamily Time Series ($). Metro & US. ***Metro_invt_fs_uc_sfrcondo_sm_month.csv***
 
