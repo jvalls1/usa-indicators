@@ -183,6 +183,15 @@ This section describes the data quality process.<br>
 For each section of data a profiling data process is executed and then based on the results <br>
 it is run a cleaning process. As a result of both process a buch of new datasets are generated.<br>
 
+## Air Quality
+
+* For every year [2000-2020]  there are 16 files each one for a kind of substance or measure. 
+* The structure of these files are the same. 
+* A field with two letters identifying the state are missing. For example '01' -> 'AL'. It can be generate easily in the 
+  next stage of the pipeline. No change to original data was made. 
+* There are no measures for every county. States have at last one point of observation.
+
+
 ## Traffic Trends
 
 * Traffic_trends.ipnyb, is used for profiling and cleaning. The file 
