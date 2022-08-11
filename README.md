@@ -273,6 +273,10 @@ All fields that begins with 'flag_' must have values 0 or 1 <br>
 ,, -> 0 <br>
 Other info -> 1 <br>
 
+## Housing
+### Buying Prices
+
+### Rental Prices
    
 ## Personal Economy
 
