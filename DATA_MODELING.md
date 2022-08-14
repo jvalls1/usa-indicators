@@ -27,5 +27,5 @@ most of cases ovelap each other. A entity from a jerarquy don't fit into a entit
 
 To understand territorial organization a pdf is provided form Cesus administration.
 
-[US Census Bureau Geographic Entities And Concepts](https://www.census.gov/programs-surveys/geography/guidance.html)
+[US Census Bureau Geographic Entities And Concepts](geoareaconcepts.pdf)
 
