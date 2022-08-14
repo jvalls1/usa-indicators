@@ -26,3 +26,6 @@ several jerarquies born under different administrations. These jeararquies somet
 most of cases ovelap each other. A entity from a jerarquy don't fit into a entity of other, in some cases.
 
 To understand territorial organization a pdf is provided form Cesus administration.
+
+[US Census Bureau Geographic Entities And Concepts](http://www.census.gov/geo/www/reference.html)
+
