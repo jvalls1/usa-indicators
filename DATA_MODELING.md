@@ -27,7 +27,13 @@ most of cases ovelap each other. A entity from a jerarquy don't fit into a entit
 
 To understand territorial organization a pdf is provided form Cesus administration.
 
-[Geo Area Concepts](geoareaconcepts.pdf)
+* [Geo Area Concepts](geoareaconcepts.pdf)
 A full information about this topic is found in:
-[United States Census Bureau](https://www.census.gov/programs-surveys/geography/guidance.html)
+* [United States Census Bureau](https://www.census.gov/programs-surveys/geography/guidance.html)
+
+
+
+
+
+A list of facts.
 
