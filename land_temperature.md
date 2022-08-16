@@ -37,7 +37,7 @@ We are only going to use by State and by City files.
 </table>
 
 Total number of records: 645,676 <br>
-Records that contains info about United States States: 149,484  <br> 
+Records that contains info about United States: 149,484  <br> 
 <br>
 
 Samples:
