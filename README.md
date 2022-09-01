@@ -12,6 +12,8 @@ List of data/indicators:
 * [Land Temperature](land_temperature.md)
 * [Air quality](air_quality.md) 
 * [Traffic Trends](traffic_trends.md)
+* Health
+  [Diabetes Prevalence](diabetes.md)
 * [Life expectancy](life_expectation.md)
 * [Heath insurance](health_insurance.md)
 * [Causes of death](causes_of_death.md)
