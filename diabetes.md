@@ -57,7 +57,10 @@ XXX  - [(URB-> Urban Or Rural),(COM-> Commute 60 minutes), (NIA-> No Internet Ac
         (MIN-> Minority), (SEW- Speak English Less than Well), (HTT -> Overall Housing Type and Transportation), (MUS-> Multiunit-structures), <br>
         (MOH-> Mobile Homes), (CRO-> Crowind), (NVH-> No vehicle), (GPQ -> Group Quarters)]
         
-### 
+### Number of files and rows
+23 Variables x 2 Files x 3220 Counties x 4 Years/Periods = 592480 Rows.
+
+
 
 
 
