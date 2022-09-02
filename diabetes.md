@@ -60,6 +60,20 @@ XXX  - [(URB-> Urban Or Rural),(COM-> Commute 60 minutes), (NIA-> No Internet Ac
 ### Number of files and rows
 23 Variables x 2 Files x 3220 Counties x 4 Years/Periods = 592480 Rows.
 
+### Example of rows.
+|Year|County Fips|Urban Rural|County|State|Diagnosed Diabetes |Overall SVI|
+|----|-----------|-----------|------|-----|-------------------|-----------|
+|2018|01001|Urban|Autauga County	|Alabama	|9.5	|0.4354|
+|2018|01003|Urban|Baldwin County	|Alabama	|8.4	|0.2162|
+|2018|01005|Rural|Barbour County	|Alabama	|13.5	|0.9959|
+|2018|01007|Urban|Bibb County		|Alabama	|10.2	|0.6003|
+|2018|01009|Urban|Blount County		|Alabama	|10.5	|0.4242|
+|2018|01011|Rural|Bullock County	|Alabama	|9.4	|0.8898|
+|2018|01013|Rural|Butler County		|Alabama	|10.9	|0.8653|
+|2018|01015|Urban|Calhoun County	|Alabama	|12.9	|0.8252|
+|2018|01017|Urban|Chambers County	|Alabama	|12		|0.7382|
+|2018|01019|Rural|Cherokee County	|Alabama	|10.5	|0.4516|
+
 
 
 
