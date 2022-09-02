@@ -40,4 +40,17 @@ Dimensions:
     * Mobile Homes
     * Crowding
     * No Vehicle
-    * Group Quarters          
+    * Group Quarters
+
+## Files
+Files must be download manually. It will be codified in the following way.
+
+* DD_XXX_YYYY.csv
+* ND_XXX_YYYY.csv
+
+
+
+
+
+
+
