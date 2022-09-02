@@ -50,12 +50,13 @@ Files must be download manually. It will be codified in the following way.
 
 Where DD is for Diagnosed Diabetes and ND for Newly Diagnosed.<br>
 YYYY - Year<br> 
-XXX  - [(URB-> Urban Or Rural),(COM-> Commute 60 minutes), (NIA-> No Internet Access), (NHI-> No health Insurance), <br>
-        (SVI-> Overall Survillance Index), (BLP-> Below Poverty), (UNP-> Unemployed), (INV-> Income Vulnerability), <br>
-        (NHD-> No High School Diploma), (HCD-> OverAll Household composition and disability), (A65-> Aged 65 or older), <br>
-        (A17-> Aged 17 or younger), (CIV-> Civilian with diasability), (SPH-> Single-Parent Households), (MSL->Overall Minority and Language), <br>
-        (MIN-> Minority), (SEW- Speak English Less than Well), (HTT -> Overall Housing Type and Transportation), (MUS-> Multiunit-structures), <br>
-        (MOH-> Mobile Homes), (CRO-> Crowind), (NVH-> No vehicle), (GPQ -> Group Quarters)]
+XXX  - <br> 
+[(URB-> Urban Or Rural),(COM-> Commute 60 minutes), (NIA-> No Internet Access), (NHI-> No health Insurance), <br>
+ (SVI-> Overall Survillance Index), (BLP-> Below Poverty), (UNP-> Unemployed), (INV-> Income Vulnerability), <br>
+ (NHD-> No High School Diploma), (HCD-> OverAll Household composition and disability), (A65-> Aged 65 or older), <br>
+ (A17-> Aged 17 or younger), (CIV-> Civilian with diasability), (SPH-> Single-Parent Households), (MSL->Overall Minority and Language), <br>
+ (MIN-> Minority), (SEW- Speak English Less than Well), (HTT -> Overall Housing Type and Transportation), (MUS-> Multiunit-structures), <br>
+ (MOH-> Mobile Homes), (CRO-> Crowind), (NVH-> No vehicle), (GPQ -> Group Quarters)]
         
 ### Number of files and rows
 23 Variables x 2 Files x 3220 Counties x 4 Years/Periods = 592480 Rows.
