@@ -21,7 +21,6 @@ List of data/indicators:
   * [Production](production.md)
   * [Prices](energy_prices.md)
 * Economic Activity
-  * [Organization of Economic Complexity OEC](organization_economic_complexity.md) 
   * [Hardvard Complexity Index](complexity_index.md)
 * Housing 
   * [Buying prices](buying_prices.md) 
