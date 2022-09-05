@@ -90,7 +90,11 @@ List of data/indicators:
     * daily_LEAD_XXXX.zip (XXXX (1980-2020), csv, Aprox 0.125MB,  15000 Rows Aprox Each File)
 * Traffic Trends
     * yymmmtvt.xlxs (Where yy (year), mmm (mounth), 245 Files, 0.3MB Excel, 40000 Total Rows Aprox)
-* Health Insurrance
+* Health
+    * Diabetes prevalence
+      * DD_XXX_YYYY.csv (YYYY year, XXX dimension or category)
+      * ND_XXX_YYYY.csv (YYYY year, XXX dimension or category)
+* Health Insurance
     * sahie-XXXX-csv.zip (XXXX (2008-2019)), (csv files, 12 Files, 300000 x 12 = 3600000 Total Rows Aprox)
 * Causes of Death
     * Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.json (JSON file, 2.38MB, 16500 Rows)
