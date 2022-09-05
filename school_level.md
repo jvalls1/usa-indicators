@@ -97,7 +97,7 @@ There are four tables.
         * Non-Hispanic
         * Hispanic    
     * Facts
-      * Number of people with earning
+      * Number of people with earnings
       * Mean of earning
       * Standard Error
       (Facts for these dimensions)
