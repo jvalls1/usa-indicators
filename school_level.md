@@ -18,3 +18,59 @@ There are four tables.
 
 ### Fields
 
+* taba_1.csv: <br>
+  * Year: year of measure.
+  * Total: total of people in thousands.
+  * Dimensions:
+    * Years old: 
+      * 25 years and over
+      * 25 to 34 years
+      * 35 to 54 years
+      * 55 and over
+    * Sex: 
+      * Both
+      * Male
+      * Female
+ * Facts Years of School Completed:
+    * Elementary I  (0 to 4 years)
+    * Elementary II (5 to 8 years)
+    * High School I (1 to 3 years)
+    * High School II (4 years)
+    * College I (1 to 3 years)
+    * College II (4 years of more)   
+  
+* taba_2.csv: <br>
+  * Year: year of measure
+  * Total: total people in thousands.
+  * Dimensions: 
+    * Year old:
+      * 25 year and over, YEARS I
+      * 25 to 29 years, YEARS II     
+    * Sex
+      * Total
+      * Male
+      * Female
+    * Educational Level Attainment.
+      * 4 Years of High School or more, ATTAINMENT I
+      * 4 Years of College or more, ATTAINMENT II  
+    * Race
+      * White
+      * Black
+      * Asian
+    * Etnicitiy
+      * Non-Hispanic
+      * Hispanic
+  * Facts for Dimensions (Year old, Educational Level Attainment, Race and Etnicity)
+      * Measure in thousands, Combinations:
+        * (White,Non-Hispanic)
+        * (White,Hispanic)
+        * (Any,Hispanic)
+        * (Asian, Any)
+        * (Black, Any)
+        * (White + Other, Non-Hispanic)
+        * (White + Other, Hispanic)
+        * (Asian + Other, Any)
+        * (Asian + Other, Any)
+  
+
+       
