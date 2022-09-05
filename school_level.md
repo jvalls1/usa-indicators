@@ -118,54 +118,54 @@ There are four tables.
     * Total
   * Dimensions:
     * Education Attainment
-     * Elementary or High school, no diploma
-       *	Less than 1 year, no diploma
-       *	1st-4th grade, no diploma
-       * 5th-6th grade, no diploma
-       * 7th-8th grade, no diploma
-       *	9th grade, no diploma
-       * 10th grade, no diploma
-       * 11th grade, no diploma
-       * 12th grade, no diploma"
-    * Elementary or High school, GED																																												
-       * Less than 1 year, GED
-       * 1st-4th grade, GED
-       * 5th-6th grade, GED
-       * 7th-8th grade, GED
-       * 9th grade, GED
-       * 10th grade, GED
-       * 11th grade, GED
-       * 12th grade, GED
-       * High school diploma
-    * College, no degree																																												
-       * Less than 1 year college, no degree
-       * One year of college, no degree
-       * Two years of college, no degree
-       * Three years of college, no degree
-       * Four or more years of college, no degree
-    * Associate's degree, vocational																																												
-       * Less than 1 year college, vocational/associate's
-       * One year of college, vocational/associate's
-       * Two years of college, vocational/associate's
-       * Three years of college, vocational/associate's
-       * Four or more years of college, vocational/associate's
-    * Associate's degree, academic																																												
-       * Less than 1 year college, academic/associate's
-       * One year of college, academic/associate's
-       * Two years of college, academic/associate's
-       * Three years of college, academic/associate's
-       * Four or more years of college, academic/associate's"
-    * Bachelor's degree
-       * Bachelor's degree 
-       * Bachelor's degree only 
-    * Master's degree program
-       * Master's degree only
-       * Master's degree 1 year program
-       * Master's degree 2 years program
-       * Master's degree 3 or more years program
-    * Professional or Doctorate degree																																												
-       * Professional degree
-       * Doctorate degree"
+       * Elementary or High school, no diploma
+         *	Less than 1 year, no diploma
+         *	1st-4th grade, no diploma
+         * 5th-6th grade, no diploma
+         * 7th-8th grade, no diploma
+         *	9th grade, no diploma
+         * 10th grade, no diploma
+         * 11th grade, no diploma
+         * 12th grade, no diploma"
+      * Elementary or High school, GED																																												
+         * Less than 1 year, GED
+         * 1st-4th grade, GED
+         * 5th-6th grade, GED
+         * 7th-8th grade, GED
+         * 9th grade, GED
+         * 10th grade, GED
+         * 11th grade, GED
+         * 12th grade, GED
+         * High school diploma
+      * College, no degree																																												
+         * Less than 1 year college, no degree
+         * One year of college, no degree
+         * Two years of college, no degree
+         * Three years of college, no degree
+         * Four or more years of college, no degree
+      * Associate's degree, vocational																																												
+         * Less than 1 year college, vocational/associate's
+         * One year of college, vocational/associate's
+         * Two years of college, vocational/associate's
+         * Three years of college, vocational/associate's
+         * Four or more years of college, vocational/associate's
+      * Associate's degree, academic																																												
+         * Less than 1 year college, academic/associate's
+         * One year of college, academic/associate's
+         * Two years of college, academic/associate's
+         * Three years of college, academic/associate's
+         * Four or more years of college, academic/associate's"
+      * Bachelor's degree
+         * Bachelor's degree 
+         * Bachelor's degree only 
+      * Master's degree program
+         * Master's degree only
+         * Master's degree 1 year program
+         * Master's degree 2 years program
+         * Master's degree 3 or more years program
+      * Professional or Doctorate degree																																												
+         * Professional degree
+         * Doctorate degree"
    * Facts
        * Number of people       
        * Percent
