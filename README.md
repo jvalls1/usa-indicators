@@ -54,13 +54,13 @@ List of data/indicators:
 * Population by County, Single Ages, Extended Races. 1990-2020 <br>    
   * us.1990_2020.singleages.adjusted.exe.gz, 246.3 MB, 65160149 Rows <br>
 * School level
-  *  
+  * Years of school completed by people 25 years and over, by age and sex: Selected years 1940 to 2021 
     * taba_1.xlsx
-  *
+  * Percent of People 25 years and Over Who has completed high school or college, by Race, Hispanic Origin and Sex: Selected years 1940 to 2021
     * taba_2.xlsx
-  * 
+  * Mean Earnings of Workers 18 years and over, by Educational Attainment, race, hispanic origin and sex: 1975 to 2020
     * taba_3.xlsx
-  *
+  * A detailed Years Completed by People of 25 Years and Over: 2000-2021
     * taba_4.xlsx
 * Land Temperature
   * GlobalLandTemperaturesByState.csv <30.49MB,   645676 Records / 149484 Records US>  
