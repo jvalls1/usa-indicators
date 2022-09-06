@@ -4,7 +4,7 @@ This dataset comes from the US National Tourism and Trade Office.<br>
 [Tourism and Trade office](https://www.trade.gov/national-travel-and-tourism-office)<br>
 https://www.trade.gov/national-travel-and-tourism-office
 
-It registers travel visitors accessing to US, and they inquiry a I-94 form. The data belongs to 2016 year.
+It registers travel visitors accessing to US, and they inquiry a I-94 form. The data belong to 2016 year.
 
 ## Files 
 
