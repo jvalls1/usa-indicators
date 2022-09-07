@@ -6,6 +6,9 @@ To follow all path of energy production we are going to use this infographics <b
 
 ![Energy Infographic](energy_chart.webp)
 
+Credits of graphic <br>
+LLNL April, 2018. Data is based on DOE/EIA MER (2017). If this information or reproduction is used, credit must be given to the Lawrencer Livermore National Laboratory and the department of Energy. under whose auspices the work was performed. This chart was revised in 2017 to reflec changes made in mid-2016 to the Energy Information Administration's analysis methodology and reporting.
+
 
 
 ### Energy Retail Prices
