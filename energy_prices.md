@@ -1,5 +1,14 @@
 ## Energy
 
+### Energy Production
+
+To follow all path of energy production we are going to use this infographics <br>
+
+![Energy Infographic](u-s-energy-consumption-2017.webp)
+
+
+
+### Energy Retail Prices
 
 ### Origin of data
 The origin of data comes from EIA (Energy Information Administration)<br>
