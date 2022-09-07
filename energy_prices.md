@@ -1,4 +1,4 @@
-## Energy Retail Prices
+## Energy
 
 
 ### Origin of data
