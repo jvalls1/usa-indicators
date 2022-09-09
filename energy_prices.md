@@ -73,4 +73,12 @@ Where XX is the state code and M the periodicity. <br>
 
 ### Files
 
+All files are obtained following the same pattern as above section, a json file is downloaded.
+https://api.eia.gov/series/?api_key=YOUR_KEY&series_id=SERIE_ID<br>
+
+|Serie ID |Description |Units| 
+|---------|------------|-----|
+
+
+
 
