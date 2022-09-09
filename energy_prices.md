@@ -75,9 +75,34 @@ Where XX is the state code and M the periodicity. <br>
 
 All files are obtained following the same pattern as above section, a json file is downloaded.
 https://api.eia.gov/series/?api_key=YOUR_KEY&series_id=SERIE_ID<br>
+XX is the state code and A or M annual or montly periodicity.
 
 |Serie ID |Description |Units| 
 |---------|------------|-----|
+|MGACD-XX-A|Motor gasoline price in the transportation sector |Dollars per million Btu|
+|MGCCD-XX-A|Motor gasoline price in the commercial sector     |Dollars per million Btu|
+|MGICD-XX-A|Motor gasoline price in the industrial sector     |Dollars per million Btu|
+|          |                                                  |                       |
+|NGACD-XX-A|Natural gas price in the transportation sector    |Dollars per million Btu|
+|NGCCD-XX-A|Natural gas price in the commercial sector        |Dollars per million Btu|
+|NGICD-XX-A|Natural gas price in the industrial sector	      |Dollars per million Btu|
+|NGRCD-XX-A|Natural gas price in the residential sector	      |Dollars per million Btu|
+|          |                                                  |                       |
+|ESACD-XX-A|Electricity price in the transportation sector    |Dollars per million Btu|
+|ESCCD-XX-A|Electricity price in the commercial sector	      |Dollars per million Btu|
+|ESICD-XX-A|Electricity price in the industrial sector	      |Dollars per million Btu|
+|ESRCD-XX-A|Electricity price in the residential sector	      |Dollars per million Btu|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
