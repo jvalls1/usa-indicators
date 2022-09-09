@@ -97,6 +97,8 @@ There are other series but for now it is enough to illustrate the state of energ
 
 ### Fields
 
+All series return a JSON file with the following structure:
+
 
 
 
