@@ -98,8 +98,19 @@ There are other series but for now it is enough to illustrate the state of energ
 ### Fields
 
 All series return a JSON file with the following structure:
-
-
+{request:
+	{command: "series",
+	 seriees_id: "SEDS.SOTGP.CA.A"},
+ series:
+ 0: {
+     series_id: "SEDS.SOTGP.CA.A",
+     name: "Solar thermal and photovoltaic electricity total net generation, California",
+     units: "Million kilowatthours",
+     f: "A",
+     description: "Solar thermal and photov…notes and documentation.",
+     
+ }
+ 
 
 
 
