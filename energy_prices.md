@@ -1,3 +1,4 @@
+
 ## Energy
 
 All Information about energy is located at https://www.eia.com
@@ -97,20 +98,39 @@ There are other series but for now it is enough to illustrate the state of energ
 
 ### Fields
 
-All series return a JSON file with the following structure:
-{request:
-	{command: "series",
-	 seriees_id: "SEDS.SOTGP.CA.A"},
- series:
- 0: {
-     series_id: "SEDS.SOTGP.CA.A",
-     name: "Solar thermal and photovoltaic electricity total net generation, California",
-     units: "Million kilowatthours",
-     f: "A",
-     description: "Solar thermal and photov…notes and documentation.",
-     
- }
- 
+All series return a JSON file with the following structure: <br>
+<br>
+{request: <br>
+&nbsp;&nbsp; {command: "series", <br>
+&nbsp;&nbsp;  series_id: SERIE_ID <br>
+&nbsp;&nbsp; }
+series: <br>
+[0: { <br>
+&nbsp;&nbsp;&nbsp; series_id: "SERIE_ID", <br>
+&nbsp;&nbsp;&nbsp; name: "Description of serie", <br>
+&nbsp;&nbsp;&nbsp; units: "Units of measurement", <br>
+&nbsp;&nbsp;&nbsp; f: "A", <br>
+&nbsp;&nbsp;&nbsp; description: "Solar thermal and photov…notes and documentation.", <br>
+&nbsp;&nbsp;&nbsp; copyright: None, <br>
+&nbsp;&nbsp;&nbsp; iso3166: "USA-XX",<br>
+&nbsp;&nbsp;&nbsp; geography="USA-XX",<br>
+&nbsp;&nbsp;&nbsp; start:"YYYYMMDD',<br>
+&nbsp;&nbsp;&nbsp; end:"YYYYMMDD',<br>
+&nbsp;&nbsp;&nbsp; updated:"YYYYMMDDTHH:MI:SS-XXXX" <br>,
+&nbsp;&nbsp;&nbsp; data: [, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 0: {date: "YYYYMM, value=99999.99"}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 1: {date: "YYYYMM, value=99999.99"}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 2: {date: "YYYYMM, value=99999.99"}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; ...
+&nbsp;&nbsp;&nbsp;&nbsp; n: {date: "YYYYMM, value=99999.99"}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; }, <br>
+ ...<br> 
+]
+
+### Number of rows
+Aprox. 25 Files x 22 Year x 52 States ~ 30000 Rows.
+
+
 
 
 
