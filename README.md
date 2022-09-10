@@ -17,9 +17,7 @@ List of data/indicators:
 * [Life expectancy](life_expectation.md)
 * [Heath insurance](health_insurance.md)
 * [Causes of death](causes_of_death.md)
-* Energy
-  * [Production](production.md)
-  * [Prices](energy_prices.md)
+* [Energy](energy_prices.md)
 * Economic Activity
   * [Hardvard Complexity Index](complexity_index.md)
 * Housing 
