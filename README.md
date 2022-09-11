@@ -101,8 +101,27 @@ List of data/indicators:
     * Nuclear electricity total net generation. SEDS.NUETP.XX.A
     * Hydroelectricity net generation in the electric power sector.SEDS.HYEGP.XX.A
     * Wind electricity total net generation. SEDS.WYTCP.XX.A
-    *
-* Economic Activity, Hardvard Complexity Index
+    * Geothermal electricity net generation in the electric power sector. SEDS.GEEGP.XX.A
+    * Natural Gas Gross Withdrawals and Production. ng_prod_sum_a_EPG0_FGW_mmcf_m.htm
+    * Natural Marketed Production. ng_prod_sum_a_EPG0_VGM_mmcf_m.htm
+    * Coal Production. SEDS.CLPRB.XX.A
+    * Coal Production. SEDS.CLPRP.XX.A
+    * Biomass total consumption. SEDS.BMTCB.XX.A
+    * All petroleum products total consumption. SEDS.PATCB.XX.A
+    * All petroleum products total production. SEDS.PATCP.XX.A
+    * Electricity generation is calculated adding all primary energy sources: ELEC.GEN.ALL-XX-99.M
+    * Motor gasoline price in the transportation sector: SEDS.MGACD.XX.A
+ 	  * Motor gasoline price in the commercial sector: SEDS.MGCCD.XX.A 	
+ 	  * Motor gasoline price in the industrial sector: SEDS.MAMGICD.XX.A 			
+    * Natural gas price in the transportation sector: SEDS.NGACD.XX.A
+    * Natural gas price in the commercial sector: SEDS.NGCCD.XX.A
+    * Natural gas price in the industrial sector: SEDS.NGICD.XX.A
+    * Natural gas price in the residential sector: SEDS.NGICD.XX.A
+	   * Electricity price in the transportation sector: SEDS.NGICD.XX.A
+ 	  * Electricity price in the commercial sector: SEDS.ESCCD.XX.A
+ 	  * Electricity price in the industrial sector: SEDS.ESICD.XX.A
+ 	  * Electricity price in the residential sector: SEDS.ESRCD.XX.A 	
+ * Economic Activity, Hardvard Complexity Index
     * 'What did United States of America export in YYYY.csv', ((1995-2019) 1225 Rows per file => 29400 Rows)
     * 'Where did United States of America export to in YYYY.csv', ((1995-2019) 220 Rows per file => 5280 Rows)
     * 'What did United States of America import in YYYY.csv', ((1995-2019) 1225 Rows per file => 29400 Rows)
@@ -119,8 +138,7 @@ List of data/indicators:
        * County_zhvi_bdrmcnt_2_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv (csv 3.7 MB) 
     * Renting prices
        * Zip_ZORI_AllHomesPlusMultifamily_Smoothed.csv (csv XX MB, 246738  Facts)
-       * Metro_invt_fs_uc_sfrcondo_sm_month.csv (56 KB, 49572 Facts)
-       
+       * Metro_invt_fs_uc_sfrcondo_sm_month.csv (56 KB, 49572 Facts)     
  * Personal Economy
    * Per Capita Personal Income
      * XXXX_PCI.csv (csv where XXXX stands for (1969-2020), 9425 Rows per file x 54 Years = 508950 Rows, 0.625MB per file)    
