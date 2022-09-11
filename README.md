@@ -111,16 +111,16 @@ List of data/indicators:
     * All petroleum products total production. SEDS.PATCP.XX.A
     * Electricity generation is calculated adding all primary energy sources: ELEC.GEN.ALL-XX-99.M
     * Motor gasoline price in the transportation sector: SEDS.MGACD.XX.A
- 	  * Motor gasoline price in the commercial sector: SEDS.MGCCD.XX.A 	
- 	  * Motor gasoline price in the industrial sector: SEDS.MAMGICD.XX.A 			
+    * Motor gasoline price in the commercial sector: SEDS.MGCCD.XX.A 	
+    * Motor gasoline price in the industrial sector: SEDS.MAMGICD.XX.A 			
     * Natural gas price in the transportation sector: SEDS.NGACD.XX.A
     * Natural gas price in the commercial sector: SEDS.NGCCD.XX.A
     * Natural gas price in the industrial sector: SEDS.NGICD.XX.A
     * Natural gas price in the residential sector: SEDS.NGICD.XX.A
-	   * Electricity price in the transportation sector: SEDS.NGICD.XX.A
- 	  * Electricity price in the commercial sector: SEDS.ESCCD.XX.A
- 	  * Electricity price in the industrial sector: SEDS.ESICD.XX.A
- 	  * Electricity price in the residential sector: SEDS.ESRCD.XX.A 	
+    * Electricity price in the transportation sector: SEDS.NGICD.XX.A
+    * Electricity price in the commercial sector: SEDS.ESCCD.XX.A
+    * Electricity price in the industrial sector: SEDS.ESICD.XX.A
+    * Electricity price in the residential sector: SEDS.ESRCD.XX.A 	
  * Economic Activity, Hardvard Complexity Index
     * 'What did United States of America export in YYYY.csv', ((1995-2019) 1225 Rows per file => 29400 Rows)
     * 'Where did United States of America export to in YYYY.csv', ((1995-2019) 220 Rows per file => 5280 Rows)
