@@ -97,7 +97,11 @@ List of data/indicators:
     * Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.json (JSON file, 2.38MB, 16500 Rows)
     * NCHS_-_Leading_Causes_of_Death__United_States.json (JSON file, 0.84MB, 7079 Rows)
 * Energy
-    * 
+    * Solar thermal and photovoltaic electricity total net generation. SEDS.SOTGP.XX.A. 
+    * Nuclear electricity total net generation. SEDS.NUETP.XX.A
+    * Hydroelectricity net generation in the electric power sector.SEDS.HYEGP.XX.A
+    * Wind electricity total net generation. SEDS.WYTCP.XX.A
+    *
 * Economic Activity, Hardvard Complexity Index
     * 'What did United States of America export in YYYY.csv', ((1995-2019) 1225 Rows per file => 29400 Rows)
     * 'Where did United States of America export to in YYYY.csv', ((1995-2019) 220 Rows per file => 5280 Rows)
