@@ -93,6 +93,12 @@ XX is the state code and A or M annual or montly periodicity.
 |ESCCD.XX.A|Electricity price in the commercial sector	      |Dollars per million Btu|
 |ESICD.XX.A|Electricity price in the industrial sector	      |Dollars per million Btu|
 |ESRCD.XX.A|Electricity price in the residential sector	      |Dollars per million Btu|
+|          |                                                  |                       | 
+|PET_PRI_GND_DCUS_R10_M|East Coast (PADD 1) Gasoline and Diesel Retail Prices |Dolar Per Gallon| 
+|PET_PRI_GND_DCUS_R20_M|Midwest (PADD 2) Gasoline and Diesel Retail Prices|Dolar Per Gallon|
+|PET_PRI_GND_DCUS_R30_M|Gulf Coast (PADD 3) Gasoline and Diesel Retail Prices|Dolar Per Gallon|
+|PET_PRI_GND_DCUS_R40_M|Rocky Mountain (PADD 4) Gasoline and Diesel Retail Prices|Dolar Per Gallon|
+|PET_PRI_GND_DCUS_R50_M|West Coast (PADD 5) Gasoline and Diesel Retail Prices|Dolar Per Gallon|
 
 There are other series but for now it is enough to illustrate the state of energy.
 
