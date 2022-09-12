@@ -97,9 +97,10 @@ List of data/indicators:
     * Weekly_Counts_of_Deaths_by_State_and_Select_Causes__2014-2019.json (JSON file, 2.38MB, 16500 Rows)
     * NCHS_-_Leading_Causes_of_Death__United_States.json (JSON file, 0.84MB, 7079 Rows)
 * Energy
+    * **All files begining by SEDS. => XX 54 State Codes x 60 Years=3240 Rows, Size 2kB x 54, Years [1960-2020]** 
     * Solar thermal and photovoltaic electricity total net generation. SEDS.SOTGP.XX.A. 
-    * Nuclear electricity total net generation. SEDS.NUETP.XX.A
-    * Hydroelectricity net generation in the electric power sector.SEDS.HYEGP.XX.A
+    * Nuclear electricity total net generation. SEDS.NUETP.XX.A (1960-2020), 
+    * Hydroelectricity net generation in the electric power sector.SEDS.HYEGP.XX.A,
     * Wind electricity total net generation. SEDS.WYTCP.XX.A
     * Geothermal electricity net generation in the electric power sector. SEDS.GEEGP.XX.A
     * Natural Gas Gross Withdrawals and Production. ng_prod_sum_a_EPG0_FGW_mmcf_m.htm
