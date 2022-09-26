@@ -1,4 +1,4 @@
-## resume of files that contains datasets.
+## Resume of files that contains datasets.
 
 * Immigration Data, State, City or Town, Year. 1 Parquet File. Aprox 3,000,000 Rows
   * part-00013-b9542815-7a8d-45fc-9c67-c9c5007ad0d4-c000.snappy, 
@@ -158,7 +158,7 @@
      * ap.series			- All series and their beginning and end Dates
      * ap.txt				- General information
 
- ## datasets location within project structure
+ ## Datasets location within project structure
  
  The structure of directory where data will be loacated is:
 
@@ -182,4 +182,4 @@
 Locations:<br>
 * Due the large number and volume of files a google drive is used
 
-## basic dimensitions of datasets
+## Basic dimensitions of datasets
