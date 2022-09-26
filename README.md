@@ -1,10 +1,10 @@
-# usa-indicators
-Data Engineering Project to show the United States of America quality of life. 
+# us-indicators
+Data Engineering Project to research the United States of America quality of life. 
 
 The main objective of project is to gather data for meseauring and giving insights 
-of quality of live evolution in USA.
+of quality of live evolution in US.
 
-List of data/indicators:
+## List of data/indicators:
 
 * [Inmigration data](immigration_data.md)
 * [Population](population.md)
@@ -29,6 +29,12 @@ List of data/indicators:
 * Indicators
   * [CPI (Cosumer Prices Index)](cpi.md)
   * [Average Prices](average_prices.md) 
+
+
+## [Description of files that contains all datasets](files.md) 
+
+
+
 
 # resume of datasets.
 
